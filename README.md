@@ -22,7 +22,6 @@ Download the latest APK and install it on your Android device:
 - **Resource Library** — Manage reusable ingredients and materials with unit costs
 - **Sales Logger** — Log your daily/monthly sales per product
 - **Analytics** — Track revenue, cost, and profit over time with period and product filters
-- **Reports** — Generate and export PDF reports of your business performance
 - **Monthly Overhead** — Track fixed costs like rent, utilities, and subscriptions
 - **Goal Tracking** — Set monthly revenue and profit goals
 - **Multi-currency** — Full currency support with customizable symbols
